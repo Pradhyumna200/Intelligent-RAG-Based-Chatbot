@@ -1,0 +1,32 @@
+# Core data analysis
+pandas
+numpy
+scikit-learn
+
+# LangChain and RAG
+langchain
+langchain-community==0.4.1
+langchain-core
+langchain-text-splitters
+langchain-google-genai
+langchain-chroma
+langchain-huggingface
+chromadb
+sentence-transformers
+
+# Evaluation and model integrations
+ragas
+litellm
+instructor
+openai
+groq
+langchain-groq
+datasets
+
+# Application and configuration
+streamlit
+python-dotenv
+pydantic
+
+# Version specified in the project notebook
+pyarrow==23.0.1

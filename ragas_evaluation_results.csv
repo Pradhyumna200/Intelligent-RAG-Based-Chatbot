@@ -1,0 +1,11 @@
+Question,Faithfulness,Answer Relevancy
+How can I contact customer support?,1.0,0.7472376493793073
+How can I get an update on my complaint?,0.6666666666666666,0.6007769266027753
+What should I do if I have a service problem?,1.0,0.7054720110874527
+Can I contact support through direct messages?,1.0,0.60766756591534
+How can I follow up on an unresolved complaint?,1.0,0.5997980870844959
+What information should I provide to customer support?,0.5,0.0
+How can I request help with my account?,0.5,0.5823507850899567
+How do I report a problem with a service?,0.5,0.9802917706459456
+How can I ask the support team to investigate an issue?,1.0,0.8953334802815108
+What should I do if my issue has not been resolved?,0.8333333333333334,0.9461192520088885
